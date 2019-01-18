@@ -1,0 +1,1 @@
+g++ shot_Car.cpp -o run `pkg-config --cflags --libs opencv`
